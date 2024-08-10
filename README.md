@@ -36,7 +36,7 @@ Avaliação Final: Análise da matriz de confusão e da curva ROC para o melhor 
 Conclusão: Resumo dos resultados obtidos e considerações finais sobre o projeto.
 
 **Resultados**
-Melhor Modelo: O modelo de Random Forest apresentou o melhor desempenho com uma acurácia e ROC-AUC que indicam uma boa capacidade preditiva.
+Melhor Modelo: O modelo de Support Vector Machine apresentou o melhor desempenho com uma acurácia e ROC-AUC que indicam uma boa capacidade preditiva.
 
 Métricas:
 
