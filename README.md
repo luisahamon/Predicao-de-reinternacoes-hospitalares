@@ -20,6 +20,7 @@ Propor intervenções: Basear-se nos resultados do modelo para sugerir ações q
 *  Imbalanced-learn (para tratamento de desbalanceamento dos dados)
 
 **Estrutura do Projeto**
+
 Introdução: Discussão sobre o problema das reinternações hospitalares e os objetivos do projeto.
 
 Importação de Bibliotecas: Listagem e importação das bibliotecas necessárias.
@@ -36,6 +37,7 @@ Conclusão: Resumo dos resultados obtidos e considerações finais sobre o proje
 
 **Resultados**
 Melhor Modelo: O modelo de Random Forest apresentou o melhor desempenho com uma acurácia e ROC-AUC que indicam uma boa capacidade preditiva.
+
 Métricas:
 
 Regressão Logística: Acurácia: 0.6129458388375165, ROC-AUC: 0.6124712910092316
@@ -44,4 +46,4 @@ Random Forest: Acurácia: 0.6131345536893753, ROC-AUC: 0.6130372794489924
 
 SVM: Acurácia: 0.6146442725042461, ROC-AUC: 0.614234431186604
 
-Os resultados indicam que a Random Forest é o modelo mais eficaz, com uma boa capacidade de prever quais pacientes têm maior probabilidade de serem reinternados.
+Os resultados indicam que a Support Vector Machine é o modelo mais eficaz, com uma boa capacidade de prever quais pacientes têm maior probabilidade de serem reinternados.
